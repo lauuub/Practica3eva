@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author inforbach
- *
- */
-module HolaMundo {
-}
