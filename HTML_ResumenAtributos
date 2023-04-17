@@ -1,0 +1,8 @@
+Todos los elementos HTML pueden tener atributos
+El href atributo de <a>especifica la URL de la página a la que va el enlace
+El src atributo de <img>especifica la ruta a la imagen que se mostrará
+Los atributos widthy de proporcionan información sobre el tamaño de las imágenes.height<img>
+El alt atributo de <img>proporciona un texto alternativo para una imagen.
+El style atributo se usa para agregar estilos a un elemento, como color, fuente, tamaño y más
+El lang atributo de la <html>etiqueta declara el idioma de la página web.
+El title atributo define alguna información adicional sobre un elemento.
